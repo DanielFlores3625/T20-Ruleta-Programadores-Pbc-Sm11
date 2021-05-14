@@ -1,0 +1,17 @@
+body {
+	background: #e7d4b5;
+}
+p.mitexto{
+background: #8ab6d6;
+}
+input{
+background: #d8e3e7;
+height: 40px;
+width: 180px;
+font-size: 20px;
+font-family: Calibri;
+border: 5px solid #0061a8;
+}
+label{
+
+}
